@@ -30,7 +30,7 @@ col1.success("Value chosen successfully")
 with col2:
     st.write("The value of :orange[***x***] is",x)
 
-col2.metric(label="Temperature", value="80 °F", delta="5 °F")
+col2.metric(label="Temperature", value="80 °F ☀️", delta="5 °F")
 
 
 from numpy.random import default_rng as rng
