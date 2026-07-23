@@ -1,6 +1,6 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (Replace above with your app's name)
+⬆️ my-hello-world-app
 ```
 
 Description of the app ...
